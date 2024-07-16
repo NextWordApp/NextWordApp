@@ -44,3 +44,6 @@ Combining example sentences and short videos of example sentences to make learni
 After learning, review the vocabulary learned today with one click and read the English short articles tailored for you
 
 - Earn points
+
+During the learning process, users can earn points during use. Points will be sent to the Web2 user's account or Web3 user's wallet via Solana blinks.
+
