@@ -1,20 +1,20 @@
 # NextWord
 
-NextWord是你的下一个英语单词App
-像刷短视频一样学习单词，并且边学边赚积分
+NextWord is your next English vocabulary app
+Learn vocabulary like watching short videos, and earn points while learning
 
-## 主要功能
-- 制定学习计划
+## Main functions
+- Make a study plan
 
-初高中词汇、四六级词汇、考研词汇、雅思词汇、托福词汇
-通过用户的年龄、学习能力量身定制每日任务
+Junior high school vocabulary, CET-4 and CET-6 vocabulary, postgraduate entrance examination vocabulary, IELTS vocabulary, TOEFL vocabulary
+Customize daily tasks according to the user's age and learning ability
 
-- 像刷短视频一样学单词
+- Learn vocabulary like watching short videos
 
-结合例句以及例句的短视频，让学习动起来
+Combining example sentences and short videos of example sentences to make learning dynamic
 
-- 一键回顾
+- One-click review
 
-在学习结束后一键回顾今日已学词汇，阅读为你量身定制的英语短文
+After learning, review the vocabulary learned today with one click and read the English short articles tailored for you
 
-- 赚取积分
+- Earn points
