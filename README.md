@@ -31,10 +31,9 @@ NextWord is your next English vocabulary app
 Learn vocabulary like watching short videos, and earn points while learning
 
 ## Main functions
-- Make a study plan
+- No planning required
 
-Junior high school vocabulary, CET-4 and CET-6 vocabulary, postgraduate entrance examination vocabulary, IELTS vocabulary, TOEFL vocabulary
-Customize daily tasks according to the user's age and learning ability
+In NextWordApp, you don’t need to make any plans in advance. Just follow our instructions and learn happily. The Ai Agent model and recommendation algorithm behind us will monitor your learning progress in real time and help you customize a set of personalized recommendations that suit your real-time learning situation.
 
 - Learn vocabulary like watching short videos
 
