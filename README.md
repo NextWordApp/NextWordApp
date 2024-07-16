@@ -21,6 +21,7 @@ Learn vocabulary like watching short videos, and earn points while learning
 ## Main functions
 - No planning required
 
+In NextWordApp, you don’t need to make any plans in advance. Just follow our instructions and learn happily. The Ai Agent model and recommendation algorithm behind us will monitor your learning progress in real time and help you customize a set of personalized recommendations that suit your real-time learning situation.
 
 - Learn vocabulary like watching short videos
 
