@@ -15,6 +15,16 @@
 </h1>
 
 
+---
+
+Why do we want to make NextWordApp?
+
+Because in the more than ten years of my education, I have experienced many English learning software, all of which require my own self-motivation to learn.
+So I often wonder if I can make a learning method that suits my own preferences. With the development of AI and Web3, the ideal platform in my mind has gradually surfaced from my heart: to provide an interesting, customized, more enjoyable, and profitable language learning platform.
+
+This is NextWordApp
+
+
 NextWord is your next English vocabulary app
 Learn vocabulary like watching short videos, and earn points while learning
 
