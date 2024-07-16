@@ -17,10 +17,12 @@
 
 ---
 
-Why do we want to make NextWordApp?
+# Why do we want to make NextWordApp?
+
 
 Because in the more than ten years of my education, I have experienced many English learning software, all of which require my own self-motivation to learn.
-So I often wonder if I can make a learning method that suits my own preferences. With the development of AI and Web3, the ideal platform in my mind has gradually surfaced from my heart: to provide an interesting, customized, more enjoyable, and profitable language learning platform.
+So I often wonder if I can make a learning platform that suits my favorite learning style?
+With the development of Ai and Web3, the ideal platform in my mind has gradually emerged from my heart: a language learning platform that can provide an interesting, customized, more fun to learn, and earn money while learning.
 
 This is NextWordApp
 
