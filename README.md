@@ -28,7 +28,7 @@ This is NextWordApp
 
 
 NextWord is your next English vocabulary app
-Learn vocabulary like watching short videos, and earn points while learning
+Learn vocabulary like watching short videos, and learning to earn points. 
 
 ## Main functions
 - No planning required
@@ -48,6 +48,18 @@ After learning, review the vocabulary learned today with one click and read the 
 During the learning process, users can earn points during use. Points will be sent to the Web2 user's account or Web3 user's wallet via Solana blinks.
 
 ## Feature
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
