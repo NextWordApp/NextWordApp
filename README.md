@@ -28,7 +28,7 @@ This is NextWordApp
 
 
 NextWord is your next English vocabulary app
-Learn vocabulary like watching short videos, and learning to earn points. 
+Learn vocabulary like watching short videos with AGI, and learning to earn points. 
 
 ## Main functions
 - No planning required
