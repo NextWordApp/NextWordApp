@@ -38,7 +38,7 @@ After learning, review the vocabulary learned today with one click and read the 
 
 - Earn points
 
-During the learning process, users can earn points during use. Points will be sent to the Web2 user's account or Web3 user's wallet via Solana blinks.
+During the learning process, users can earn points during use. Points will be sent to the Web2 user's account or Web3 user's wallet.
 
 
 
