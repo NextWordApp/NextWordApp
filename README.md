@@ -4,10 +4,10 @@
 
 
 <h2 align="center">
-  Disruptive and innovative Ai Agent+Web3 customized language learning platform.
+  Disruptive and innovative AI Agent+Web3 customized language learning platform.
 </h2>
 
-
+---
 
 # 我们为什么要做NextWordApp？
 
@@ -46,21 +46,21 @@ NextWord是你的下一个英语词汇应用
 在学习过程中，用户可以在使用过程中赚取积分。积分将通过发送到 Web2 用户的账户或 Web3 用户的钱包中。积分可以在后续兑换为会员，勋章，现金。
 
 
-本次黑客松我们所做的部分
+# 本次黑客松我们所做的部分
 - 讨论项目的标准工作流程
 - 尝试构建前端和后端
 - 搭建钱包登陆界面
 - 尝试构建iOS app 
 - 搭建好背后的Ai Agent 模型
 
-未来想要去做的 
+
+# 未来计划
+
+- 优化视频生成速度和工作流速度
+- 将已生成的视频和例句内容保存到云端，通过推荐算法推荐给相似用户以减少大模型推理成本，在用户访问到未生成内容时再调用API
 
 
-
-
-
-
-
+---
 
 # Why do we want to make NextWordApp?
 
